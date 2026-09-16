@@ -108,15 +108,6 @@ Independent quantitative research into Finnish and Nordic electricity markets, w
 
 ## `> ./run_diagnostics.sh`
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Seun193&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=transparent&rank_icon=github" alt="Seun's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seun193&layout=compact&hide_border=true&theme=transparent" alt="Most used public repository languages" />
-
-</div>
-
-> GitHub activity cards reflect public GitHub activity and are not intended as a complete measure of engineering experience.
-
 ---
 
 ## `> cat ./quality-philosophy.md`
