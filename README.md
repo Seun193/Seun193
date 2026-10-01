@@ -1,11 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:22C55E&height=220&section=header&text=Seun%20Obisesan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineering%20%7C%20Test%20Automation%20%7C%20Decision%20Systems%20%7C%20Energy%20Economics&descAlignY=58&descSize=17" alt="Seun Obisesan profile banner" />
+<img width="100%" src="./seun-github-banner.gif" alt="Seun Obisesan — QA Automation, Energy Economics and Data Analysis" />
 
 <img src="https://komarev.com/ghpvc/?username=Seun193&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
+
+
+
 ![Seun Obisesan — QA Automation, Energy Economics and Data Analysis](seun-github-banner.gif)
+
 ## `> whoami`
 
 ```text
