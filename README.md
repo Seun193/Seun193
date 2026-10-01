@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=Seun193&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
-
+![Seun Obisesan — QA Automation, Energy Economics and Data Analysis](seun-github-banner.gif)
 ## `> whoami`
 
 ```text
