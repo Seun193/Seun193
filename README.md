@@ -6,10 +6,6 @@
 
 </div>
 
-
-
-![Seun Obisesan — QA Automation, Energy Economics and Data Analysis](seun-github-banner.gif)
-
 ## `> whoami`
 
 ```text
