@@ -108,6 +108,23 @@ Independent quantitative research into Finnish and Nordic electricity markets, w
 
 ## `> ./run_diagnostics.sh`
 
+```text
+$ ./run_diagnostics.sh --scope engineering
+
+[CHECK] Requirements   → testable acceptance criteria
+[CHECK] APIs           → contracts, errors & integration behaviour
+[CHECK] Data           → integrity & source-to-output reconciliation
+[CHECK] Decisions      → eligibility, ranking & explainability
+[CHECK] Models         → output validation & robustness
+[CHECK] Releases       → regression evidence & CI quality gates
+
+Principle: verify behaviour, trace evidence, expose failures.
+```
+
+*Engineering checklist — illustrative, not a live test report.*
+
+---
+
 ---
 
 ## `> cat ./quality-philosophy.md`
