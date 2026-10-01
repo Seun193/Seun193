@@ -78,31 +78,17 @@ Independent quantitative research into Finnish and Nordic electricity markets, w
 
 ## `> cat /etc/engineering-stack.conf`
 
-### Test & Quality Engineering
+### Languages, Engineering & Data
 
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=flat-square&logo=robotframework&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,sqlite,fastapi,docker,git&theme=dark&perline=7" alt="Python, JavaScript, Node.js, SQLite, FastAPI, Docker and Git" />
 
-### Engineering & Data
+### Testing, CI & Development Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postman,jenkins,githubactions,bash,powershell,pycharm,gcp&theme=dark&perline=7" alt="Postman, Jenkins, GitHub Actions, Bash, PowerShell, PyCharm and Google Cloud" />
 
-### Analysis & Research
+**Test automation:** Robot Framework · Playwright · pytest · Newman · SOAP UI
 
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Econometrics](https://img.shields.io/badge/Econometrics-Quantitative%20Analysis-475569?style=flat-square)
+**Analysis & research:** pandas · NumPy · scikit-learn · Econometrics · Energy economics
 
 ---
 
