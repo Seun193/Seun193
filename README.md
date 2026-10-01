@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./seun-github-banner.gif" alt="Seun Obisesan — QA Automation, Energy Economics and Data Analysis" />
+<img width="100%" src="./seun-github-banner-v3.gif" alt="Seun Obisesan — QA Automation, Energy Economics and Data Analysis" />
 
 <img src="https://komarev.com/ghpvc/?username=Seun193&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
@@ -171,6 +171,6 @@ energy-economics/
 
 ### Building systems that are measurable, testable, explainable, and reproducible.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:22C55E&height=110&section=footer" alt="" />
+<img width="100%" src="./seun-github-footer.svg" alt="" />
 
 </div>
