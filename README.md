@@ -75,6 +75,17 @@ Independent quantitative research into Finnish and Nordic electricity markets, w
 </table>
 
 ---
+## `> cat /etc/engineering-stack.conf`
+
+### Languages, Engineering & Data
+
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,sqlite,fastapi,docker,git&theme=dark&perline=7" alt="Python, JavaScript, Node.js, SQLite, FastAPI, Docker and Git" />
+
+### Testing, CI & Development Tools
+
+<img src="https://skillicons.dev/icons?i=postman,jenkins,githubactions,bash,powershell,pycharm,gcp&theme=dark&perline=7" alt="Postman, Jenkins, GitHub Actions, Bash, PowerShell, PyCharm and Google Cloud" />
+
+
 ### Test Automation
 
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-0B2538?style=for-the-badge&logo=robotframework&logoColor=00DDD0)
