@@ -75,22 +75,24 @@ Independent quantitative research into Finnish and Nordic electricity markets, w
 </table>
 
 ---
+### Test Automation
 
-## `> cat /etc/engineering-stack.conf`
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-0B2538?style=for-the-badge&logo=robotframework&logoColor=00DDD0)
+![Playwright](https://img.shields.io/badge/Playwright-0B2538?style=for-the-badge&logo=playwright&logoColor=45D483)
+![pytest](https://img.shields.io/badge/pytest-0B2538?style=for-the-badge&logo=pytest&logoColor=38BDF8)
+![Newman](https://img.shields.io/badge/Newman-0B2538?style=for-the-badge&logo=postman&logoColor=FF8A55)
+![SOAP UI](https://img.shields.io/badge/SOAP_UI-0B2538?style=for-the-badge)
 
-### Languages, Engineering & Data
+### Data & Research
 
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,sqlite,fastapi,docker,git&theme=dark&perline=7" alt="Python, JavaScript, Node.js, SQLite, FastAPI, Docker and Git" />
-
-### Testing, CI & Development Tools
-
-<img src="https://skillicons.dev/icons?i=postman,jenkins,githubactions,bash,powershell,pycharm,gcp&theme=dark&perline=7" alt="Postman, Jenkins, GitHub Actions, Bash, PowerShell, PyCharm and Google Cloud" />
-
-**Test automation:** Robot Framework · Playwright · pytest · Newman · SOAP UI
-
-**Analysis & research:** pandas · NumPy · scikit-learn · Econometrics · Energy economics
+![pandas](https://img.shields.io/badge/pandas-0B2538?style=for-the-badge&logo=pandas&logoColor=38BDF8)
+![NumPy](https://img.shields.io/badge/NumPy-0B2538?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0B2538?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Econometrics](https://img.shields.io/badge/Econometrics-0B2538?style=for-the-badge)
+![Energy Economics](https://img.shields.io/badge/Energy_Economics-0B2538?style=for-the-badge)
 
 ---
+
 
 ## `> ./run_diagnostics.sh`
 
